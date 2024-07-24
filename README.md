@@ -1,8 +1,8 @@
 # Hi there, I'm Kelvin Simiyu Wafulah 
 
-![Profile Image](https://github.com/SimiyuWafulah/SimiyuWafulah/blob/main/path/to/your-image.png)
+![Profile Image](https://github.com/SimiyuWafulah/SimiyuWafulah/blob/main/MYXJ_20230306184047024_save.jpg?raw=true)
 
-I'm a Backend and Network Engineer with a passion for creating scalable microservices and automation. I enjoy working on projects involving Docker, Kubernetes, and Jenkins.
+I'm a Backend and Network Engineer with a passion for creating scalable microservices and automating network infrastructure. I specialize in designing and implementing robust backend systems and network solutions using modern technologies like Docker, Kubernetes, and Jenkins. I also have experience with Golang, TypeScript, and C, which I use to build efficient and high-performance applications.
 
 ## 🔧 Technologies & Tools
 
