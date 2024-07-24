@@ -13,10 +13,6 @@ I'm a Backend and Network Engineer with a passion for creating scalable microser
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
-## 📈 GitHub Stats
-
-![SimiyuWafulah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimiyuWafulah&show_icons=true)
-
 ## 📫 How to reach me
 - Email: [kelvinsimiyuse@gmail.com](mailto:kelvinsimiyuse@gmail.com)
 
