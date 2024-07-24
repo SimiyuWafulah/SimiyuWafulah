@@ -20,7 +20,7 @@ I'm a Backend and Network Engineer with a passion for creating scalable microser
 ![SimiyuWafulah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimiyuWafulah&show_icons=true)
 
 ## 📫 How to reach me
-- Email: [simiyuwafulah@example.com](mailto:kelvinsimiyuse@gmail.com)
+- Email: [kelvinsimiyuse@gmail.com](mailto:kelvinsimiyuse@gmail.com)
 
 
 <!---
